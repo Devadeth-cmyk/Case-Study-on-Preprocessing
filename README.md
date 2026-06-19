@@ -133,14 +133,14 @@ Steps:
 3. Determine lower and upper bounds
 4. Clip extreme values
 
-**Why IQR?**
-
-- Robust against skewed distributions.
-- Effective for real estate datasets where extreme values are common.
+---
+### 9. Train-Test Split
+- Training Set: 80%
+- Testing Set: 20%
 
 ---
 
-### 9. Data Preparation for Modeling
+### 10. Data Preparation for Modeling
 
 Prepared the final dataset by:
 
